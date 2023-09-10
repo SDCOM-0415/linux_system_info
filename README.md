@@ -9,3 +9,6 @@ curl -sSL https://github.com/SDCOM-0415/linux_system_info/releases/download/0.2/
 
 0.4:</p>
 curl -sSL https://github.com/SDCOM-0415/linux_system_info/releases/download/0.4/linux.sh | bash</p></p>
+
+0.5:</p>
+curl -sSL https://github.com/SDCOM-0415/linux_system_info/releases/download/0.5/linux.sh | bash</p></p>
